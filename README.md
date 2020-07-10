@@ -9,4 +9,4 @@ $terminal startuptweets.py 2020-07-09 2020-07-10 10 <br />
 
 Beware that as the number of max tweets and gap between the date range increases also the time required for the tweets for required criteria increase<br />
 
-Also uploaded the web-interface, to local host "$ manage.py runserver" 
+Also uploaded the web-interface, to local host "$python manage.py runserver" 
